@@ -1,0 +1,8 @@
+## Interface: 16001
+## Title: Glowcery List
+## Notes: Shows a buy icon on vendor items you need for tracked recipes.
+## Author: Frank
+## Version: 1.0.0
+## SavedVariablesPerCharacter: GlowceryListDB
+
+GlowceryList.lua
